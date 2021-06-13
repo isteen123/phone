@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, Flask
 import sqlite3
 import os
 
-currentdirectory = os.path.dirname(os.path.abspath(__file__))
+currentdirectory = os.path.dirname(postgres://uhrljkvagsdvbp:2b4c30d656d914d2da0a7fd00f814ff90f4b929f5e118341415ed194d56d8841@ec2-34-193-112-164.compute-1.amazonaws.com:5432/dcl1cish3o860t)
 
 app = Flask(__name__)
 
