@@ -1,4 +1,4 @@
-from flask import flask, render_template, request, Flask
+from flask import Flask, render_template, request, Flask
 import sqlite3
 import os
 
